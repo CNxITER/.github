@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+media team this will be the page everyone sees when the visit us
+can add rules to contribution etc
+
 <!--
 
 **Here are some ideas to get you started:**
