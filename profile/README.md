@@ -45,8 +45,8 @@ Whether you're a curious beginner or a tech-savvy wizard — here, you belong.
 
 ## 🌍 Chapter Presence
 
-Coding Ninjas 10x Clubs exist across India — and now, proudly at **ITER (SOA University)**.  
-We are a **recognized chapter** under Coding Ninjas' national community framework.
+Coding Ninjas 10x Clubs are active across India — and now, proudly at **ITER (SOA University)**.  
+Our chapter is officially recognized within the Coding Ninjas national student community.
 
 > ⚡ _Here, tech meets ambition. And that’s unstoppable._
 
