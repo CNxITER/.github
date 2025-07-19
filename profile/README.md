@@ -2,7 +2,7 @@
 
 > **Code. Craft. Conquer.**
 
-Welcome to the official repository of **Coding Ninjas 10x Club – ITER Chapter**!  
+Welcome to the Github Organization of **Coding Ninjas 10x Club – ITER Chapter**!  
 We're not just a tech club — we're a movement of passionate coders, builders, and creators dedicated to **transforming potential into impact**.
 
 ---
