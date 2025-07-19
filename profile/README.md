@@ -1,9 +1,6 @@
 # 🚀 Coding Ninjas 10x Club – ITER Chapter
 
-> **Code. Craft. Conquer.**
-
-Welcome to the official repository of **Coding Ninjas 10x Club – ITER Chapter**!  
-We're not just a tech club — we're a movement of passionate coders, builders, and creators dedicated to **transforming potential into impact**.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F73F49&center=true&vCenter=true&multiline=true&width=600&lines=Code.+Craft.+Conquer.;Welcome+to+Coding+Ninjas+10x+Club+–+ITER+Chapter!)
 
 ---
 
@@ -23,10 +20,10 @@ Whether you're a curious beginner or a tech-savvy wizard — here, you belong.
 
 | 🚩 Vertical        | 💡 What it Covers                                                                 |
 |-------------------|-----------------------------------------------------------------------------------|
-| **Open Projects** | Join or lead real-world tech projects under **Nexus-Hub**. Build, collaborate, and innovate. |
-| **Workshops**     | Learn from the best — Git, DevOps, AI/ML, Web3, and more.                         |
-| **Hackathons**    | Build in 24hrs or less. Pitch, present, win. Repeat.                              |
-| **Code Wars**     | Weekly coding contests, DSA grind, and competitive programming.                   |
+| **Open Projects** | 📊 Build or lead real-world tech projects under **Nexus-Hub**. Collaborate, innovate, and make impact. |
+| **Workshops**     | 🎭 Learn from the best — Git, DevOps, AI/ML, Web3, and more.                         |
+| **Hackathons**    | ⏱️ Build in 24hrs or less. Pitch, present, win. Repeat.                              |
+| **Code Wars**     | 🏅 Weekly coding contests, DSA grind, and competitive programming.                   |
 
 ---
 
@@ -42,7 +39,6 @@ Whether you're a curious beginner or a tech-savvy wizard — here, you belong.
 
 ---
 
-
 ## 🌍 Chapter Presence
 
 Coding Ninjas 10x Clubs exist across India — and now, proudly at **ITER (SOA University)**.  
@@ -56,11 +52,11 @@ We are a **recognized chapter** under Coding Ninjas' national community framewor
 
 Whether you’re a coder, designer, writer, strategist, or just curious to learn — there's a place for you.
 
-✅ **Fork** this repo  
-✅ **Raise an issue / work on an open task**  
-✅ **Join an active project**  
-✅ **Contribute to docs, code, or UI**  
-✅ **Attend events & show up**
+- ✅ **Fork** this repo  
+- ✅ **Raise an issue / work on an open task**  
+- ✅ **Join an active project**  
+- ✅ **Contribute to docs, code, or UI**  
+- ✅ **Attend events & show up**
 
 ---
 
