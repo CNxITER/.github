@@ -1,6 +1,6 @@
 # 🚀 Coding Ninjas 10x Club – ITER Chapter
 
-> **Code. Craft. Conquer. Together.**
+> **Code. Craft. Conquer.**
 
 Welcome to the official repository of **Coding Ninjas 10x Club – ITER Chapter**!  
 We're not just a tech club — we're a movement of passionate coders, builders, and creators dedicated to **transforming potential into impact**.
@@ -21,13 +21,12 @@ Whether you're a curious beginner or a tech-savvy wizard — here, you belong.
 
 ## ✨ What We Do
 
-| 🚩 Vertical       | 💡 What it Covers |
-|------------------|------------------|
-| **Dev Sprints**  | Build, collaborate, and deploy real-world applications with us. |
-| **Code Wars**    | Weekly coding contests, DSA grind, and competitive programming. |
-| **Workshops**    | Learn from the best — Git, DevOps, AI/ML, Web3, and more. |
-| **Hackathons**   | Build in 24hrs or less. Pitch, present, win. Repeat. |
-| **Open Projects**| Join or lead projects. Solve problems that matter. |
+| 🚩 Vertical        | 💡 What it Covers                                                                 |
+|-------------------|-----------------------------------------------------------------------------------|
+| **Open Projects** | Join or lead real-world tech projects under **Nexus-Hub**. Build, collaborate, and innovate. |
+| **Workshops**     | Learn from the best — Git, DevOps, AI/ML, Web3, and more.                         |
+| **Hackathons**    | Build in 24hrs or less. Pitch, present, win. Repeat.                              |
+| **Code Wars**     | Weekly coding contests, DSA grind, and competitive programming.                   |
 
 ---
 
@@ -67,10 +66,9 @@ Whether you’re a coder, designer, writer, strategist, or just curious to learn
 
 ## 💬 Join the Conversation
 
-- 📣 [Instagram](https://www.instagram.com/)  
-- 🧠 [LinkedIn](https://www.linkedin.com/)  
-- 🧵 GitHub Discussions  
-- ✉️ codingninjas.iter@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cn.10x.iter/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/company/coding-ninjas-10x-iter)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cnxiter.7008@gmail.com)
 
 ---
 
