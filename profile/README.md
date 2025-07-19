@@ -43,13 +43,6 @@ Whether you're a curious beginner or a tech-savvy wizard — here, you belong.
 
 ---
 
-## 🛠️ Our Stack
-
-We're tech-agnostic and innovation-focused. Some of our favorite tools & tech:
-
-`Python` `JavaScript` `C++` `React` `Next.js` `Node.js` `Flask` `TensorFlow` `MongoDB` `PostgreSQL` `Firebase` `Docker` `Figma` `GitHub Actions`
-
----
 
 ## 🌍 Chapter Presence
 
